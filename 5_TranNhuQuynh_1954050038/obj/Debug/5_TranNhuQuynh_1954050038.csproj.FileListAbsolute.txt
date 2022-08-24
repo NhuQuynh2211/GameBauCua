@@ -1,0 +1,109 @@
+c:\Users\ASUS\source\repos\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\bin\Debug\5_TranNhuQuynh_1954050038.exe.config
+c:\Users\ASUS\source\repos\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\bin\Debug\5_TranNhuQuynh_1954050038.exe
+c:\Users\ASUS\source\repos\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\bin\Debug\5_TranNhuQuynh_1954050038.pdb
+c:\Users\ASUS\source\repos\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.csprojAssemblyReference.cache
+c:\Users\ASUS\source\repos\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\_5_TranNhuQuynh_1954050038.formVaoGame.resources
+c:\Users\ASUS\source\repos\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\_5_TranNhuQuynh_1954050038.Properties.Resources.resources
+c:\Users\ASUS\source\repos\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.csproj.GenerateResource.cache
+c:\Users\ASUS\source\repos\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.csproj.CoreCompileInputs.cache
+c:\Users\ASUS\source\repos\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.exe
+c:\Users\ASUS\source\repos\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.pdb
+c:\Users\ASUS\source\repos\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\_5_TranNhuQuynh_1954050038.FormChoi.resources
+E:\Anh Thư\BẦU CUA TÔM CÁ\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\bin\Debug\5_TranNhuQuynh_1954050038.exe.config
+E:\Anh Thư\BẦU CUA TÔM CÁ\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\bin\Debug\5_TranNhuQuynh_1954050038.exe
+E:\Anh Thư\BẦU CUA TÔM CÁ\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\bin\Debug\5_TranNhuQuynh_1954050038.pdb
+E:\Anh Thư\BẦU CUA TÔM CÁ\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.csprojAssemblyReference.cache
+E:\Anh Thư\BẦU CUA TÔM CÁ\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\_5_TranNhuQuynh_1954050038.FormChoi.resources
+E:\Anh Thư\BẦU CUA TÔM CÁ\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\_5_TranNhuQuynh_1954050038.formVaoGame.resources
+E:\Anh Thư\BẦU CUA TÔM CÁ\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\_5_TranNhuQuynh_1954050038.Properties.Resources.resources
+E:\Anh Thư\BẦU CUA TÔM CÁ\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.csproj.GenerateResource.cache
+E:\Anh Thư\BẦU CUA TÔM CÁ\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.csproj.CoreCompileInputs.cache
+E:\Anh Thư\BẦU CUA TÔM CÁ\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.exe
+E:\Anh Thư\BẦU CUA TÔM CÁ\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.pdb
+C:\Users\ADMIN\Downloads\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\bin\Debug\5_TranNhuQuynh_1954050038.exe.config
+C:\Users\ADMIN\Downloads\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\bin\Debug\5_TranNhuQuynh_1954050038.exe
+C:\Users\ADMIN\Downloads\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\bin\Debug\5_TranNhuQuynh_1954050038.pdb
+C:\Users\ADMIN\Downloads\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\_5_TranNhuQuynh_1954050038.FormChoi.resources
+C:\Users\ADMIN\Downloads\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\_5_TranNhuQuynh_1954050038.formVaoGame.resources
+C:\Users\ADMIN\Downloads\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\_5_TranNhuQuynh_1954050038.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.exe
+C:\Users\ADMIN\Downloads\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.pdb
+C:\Users\ADMIN\Downloads\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\_5_TranNhuQuynh_1954050038.FormNew.resources
+E:\Study\Visual Studio projects\6_LTCSDL\User Interface Programming\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\bin\Debug\5_TranNhuQuynh_1954050038.exe.config
+E:\Study\Visual Studio projects\6_LTCSDL\User Interface Programming\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\bin\Debug\5_TranNhuQuynh_1954050038.exe
+E:\Study\Visual Studio projects\6_LTCSDL\User Interface Programming\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\bin\Debug\5_TranNhuQuynh_1954050038.pdb
+E:\Study\Visual Studio projects\6_LTCSDL\User Interface Programming\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.csproj.AssemblyReference.cache
+E:\Study\Visual Studio projects\6_LTCSDL\User Interface Programming\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\_5_TranNhuQuynh_1954050038.FormChoi.resources
+E:\Study\Visual Studio projects\6_LTCSDL\User Interface Programming\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\_5_TranNhuQuynh_1954050038.FormNew.resources
+E:\Study\Visual Studio projects\6_LTCSDL\User Interface Programming\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\_5_TranNhuQuynh_1954050038.formVaoGame.resources
+E:\Study\Visual Studio projects\6_LTCSDL\User Interface Programming\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\_5_TranNhuQuynh_1954050038.Properties.Resources.resources
+E:\Study\Visual Studio projects\6_LTCSDL\User Interface Programming\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.csproj.GenerateResource.cache
+E:\Study\Visual Studio projects\6_LTCSDL\User Interface Programming\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.csproj.CoreCompileInputs.cache
+E:\Study\Visual Studio projects\6_LTCSDL\User Interface Programming\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.exe
+E:\Study\Visual Studio projects\6_LTCSDL\User Interface Programming\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.pdb
+C:\Users\ADMIN\Downloads\lập trình\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\bin\Debug\5_TranNhuQuynh_1954050038.exe.config
+C:\Users\ADMIN\Downloads\lập trình\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\bin\Debug\5_TranNhuQuynh_1954050038.exe
+C:\Users\ADMIN\Downloads\lập trình\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\bin\Debug\5_TranNhuQuynh_1954050038.pdb
+C:\Users\ADMIN\Downloads\lập trình\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\lập trình\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\_5_TranNhuQuynh_1954050038.FormChoi.resources
+C:\Users\ADMIN\Downloads\lập trình\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\_5_TranNhuQuynh_1954050038.FormNew.resources
+C:\Users\ADMIN\Downloads\lập trình\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\_5_TranNhuQuynh_1954050038.formVaoGame.resources
+C:\Users\ADMIN\Downloads\lập trình\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\_5_TranNhuQuynh_1954050038.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\lập trình\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\lập trình\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\lập trình\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.exe
+C:\Users\ADMIN\Downloads\lập trình\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.pdb
+E:\BẦU CUA TÔM CÁ\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\bin\Debug\5_TranNhuQuynh_1954050038.exe.config
+E:\BẦU CUA TÔM CÁ\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\bin\Debug\5_TranNhuQuynh_1954050038.exe
+E:\BẦU CUA TÔM CÁ\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\bin\Debug\5_TranNhuQuynh_1954050038.pdb
+E:\BẦU CUA TÔM CÁ\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.csprojAssemblyReference.cache
+E:\BẦU CUA TÔM CÁ\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\_5_TranNhuQuynh_1954050038.FormChoi.resources
+E:\BẦU CUA TÔM CÁ\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\_5_TranNhuQuynh_1954050038.FormNew.resources
+E:\BẦU CUA TÔM CÁ\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\_5_TranNhuQuynh_1954050038.formVaoGame.resources
+E:\BẦU CUA TÔM CÁ\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\_5_TranNhuQuynh_1954050038.Properties.Resources.resources
+E:\BẦU CUA TÔM CÁ\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.csproj.GenerateResource.cache
+E:\BẦU CUA TÔM CÁ\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.csproj.CoreCompileInputs.cache
+E:\BẦU CUA TÔM CÁ\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.exe
+E:\BẦU CUA TÔM CÁ\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.pdb
+C:\Users\ADMIN\Downloads\Chị Kiều\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\bin\Debug\5_TranNhuQuynh_1954050038.exe.config
+C:\Users\ADMIN\Downloads\Chị Kiều\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\bin\Debug\5_TranNhuQuynh_1954050038.exe
+C:\Users\ADMIN\Downloads\Chị Kiều\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\bin\Debug\5_TranNhuQuynh_1954050038.pdb
+C:\Users\ADMIN\Downloads\Chị Kiều\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Chị Kiều\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\_5_TranNhuQuynh_1954050038.FormChoi.resources
+C:\Users\ADMIN\Downloads\Chị Kiều\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\_5_TranNhuQuynh_1954050038.FormNew.resources
+C:\Users\ADMIN\Downloads\Chị Kiều\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\_5_TranNhuQuynh_1954050038.formVaoGame.resources
+C:\Users\ADMIN\Downloads\Chị Kiều\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\_5_TranNhuQuynh_1954050038.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\Chị Kiều\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\Chị Kiều\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Chị Kiều\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.exe
+C:\Users\ADMIN\Downloads\Chị Kiều\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.pdb
+C:\Users\ADMIN\Downloads\Chị Kiều\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\_5_TranNhuQuynh_1954050038.FormChoiThoat.resources
+E:\Image\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\bin\Debug\5_TranNhuQuynh_1954050038.exe.config
+E:\Image\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\bin\Debug\5_TranNhuQuynh_1954050038.exe
+E:\Image\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\bin\Debug\5_TranNhuQuynh_1954050038.pdb
+E:\Image\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.csprojAssemblyReference.cache
+E:\Image\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\_5_TranNhuQuynh_1954050038.FormChoi.resources
+E:\Image\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\_5_TranNhuQuynh_1954050038.FormThua.resources
+E:\Image\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\_5_TranNhuQuynh_1954050038.FormNew.resources
+E:\Image\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\_5_TranNhuQuynh_1954050038.formVaoGame.resources
+E:\Image\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\_5_TranNhuQuynh_1954050038.Properties.Resources.resources
+E:\Image\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.csproj.GenerateResource.cache
+E:\Image\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.csproj.CoreCompileInputs.cache
+E:\Image\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.exe
+E:\Image\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.pdb
+C:\Users\ADMIN\Downloads\lập trình\baiChinh\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\bin\Debug\5_TranNhuQuynh_1954050038.exe.config
+C:\Users\ADMIN\Downloads\lập trình\baiChinh\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\bin\Debug\5_TranNhuQuynh_1954050038.exe
+C:\Users\ADMIN\Downloads\lập trình\baiChinh\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\bin\Debug\5_TranNhuQuynh_1954050038.pdb
+C:\Users\ADMIN\Downloads\lập trình\baiChinh\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\lập trình\baiChinh\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\_5_TranNhuQuynh_1954050038.FormChoi.resources
+C:\Users\ADMIN\Downloads\lập trình\baiChinh\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\_5_TranNhuQuynh_1954050038.FormThua.resources
+C:\Users\ADMIN\Downloads\lập trình\baiChinh\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\_5_TranNhuQuynh_1954050038.FormNew.resources
+C:\Users\ADMIN\Downloads\lập trình\baiChinh\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\_5_TranNhuQuynh_1954050038.formVaoGame.resources
+C:\Users\ADMIN\Downloads\lập trình\baiChinh\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\_5_TranNhuQuynh_1954050038.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\lập trình\baiChinh\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\lập trình\baiChinh\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\lập trình\baiChinh\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.exe
+C:\Users\ADMIN\Downloads\lập trình\baiChinh\5_TranNhuQuynh_1954050038\5_TranNhuQuynh_1954050038\obj\Debug\5_TranNhuQuynh_1954050038.pdb
